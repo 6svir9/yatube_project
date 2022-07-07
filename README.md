@@ -26,8 +26,7 @@ Django 2.2.19
   в текущее окружение. 
 
 - В папке с файлом manage.py выполните команду:
-```
 python3 manage.py runserver
-```
+
 ### Авторы
 6svir9
